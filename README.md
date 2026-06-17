@@ -6,7 +6,33 @@
 
 An interactive Tableau dashboard analyzing student success metrics across U.S. institutions.
 
-### Key Metrics
+## Tech Stack
+
+- Tableau Public
+- SQL
+- Excel
+- Data Visualization
+- Business Intelligence
+
+## Dataset
+
+Source: U.S. College Scorecard Dataset
+
+## Business Questions Answered
+
+- Which institutions have the highest graduation rates?
+- Is higher student debt associated with higher earnings?
+- Which states demonstrate stronger student outcomes?
+- How do retention rates compare across institutions?
+
+## Key Insights
+
+- Top-performing institutions consistently achieved graduation rates above 95%.
+- Higher median debt generally correlated with higher earnings.
+- Significant variation exists across states in graduation outcomes.
+- Retention rates showed a strong relationship with graduation success.
+
+## Key Metrics
 
 - Total Enrollment
 - Median Earnings
