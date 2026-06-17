@@ -1,5 +1,7 @@
 # Student Success & Institutional Analytics Dashboard
 
+![Dashboard Screenshot](Dashboard.png)
+
 ## Overview
 
 An interactive Tableau dashboard analyzing student success metrics across U.S. institutions.
