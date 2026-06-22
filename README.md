@@ -1,6 +1,8 @@
 # Student Success & Institutional Analytics Dashboard
 
-![Dashboard Screenshot](Dashboard.png)
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 ## Overview
 
@@ -57,7 +59,6 @@ Source: U.S. College Scorecard Dataset
 
 ### Tableau Public Dashboard
 
-https://public.tableau.com/app/profile/manya.eleti4437/viz/StudentSuccessInstitutionalAnalyticsDashboard/StudentSuccessDashboard
-
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/manya.eleti4437/viz/StudentSuccessInstitutionalAnalyticsDashboard/StudentSuccessDashboard)
 ---
 Built using Tableau Public.
