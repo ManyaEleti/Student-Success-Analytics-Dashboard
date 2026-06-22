@@ -34,11 +34,11 @@ The dataset contains institutional-level information on enrollment, graduation r
 
 ## Key Insights
 
-- Top-performing institutions consistently achieved graduation rates above 95%.
-- Higher median debt generally correlated with higher earnings.
-- Significant variation exists across states in graduation outcomes.
-- Retention rates showed a strong relationship with graduation success.
-
+- Institutions with higher retention rates generally achieve higher graduation rates.
+- Significant variation exists in graduation outcomes across states.
+- Higher tuition does not necessarily correlate with stronger student outcomes.
+- Top-performing institutions consistently demonstrate strong retention and completion metrics.
+  
 ## Key Metrics
 
 - Total Enrollment
