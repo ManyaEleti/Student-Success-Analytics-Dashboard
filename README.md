@@ -13,16 +13,17 @@ An interactive Tableau dashboard analyzing student success metrics across U.S. i
 Analyze student success outcomes across U.S. higher education institutions using College Scorecard data and build an interactive Tableau dashboard to identify patterns in graduation rates, retention rates, student debt, and post-graduation earnings.
 
 ## Tech Stack
-
 - Tableau Public
 - SQL
 - Excel
 - Data Visualization
 - Business Intelligence
+- Data Analysis
 
 ## Dataset
+Source: U.S. Department of Education College Scorecard Dataset
 
-Source: U.S. College Scorecard Dataset
+The dataset contains institutional-level information on enrollment, graduation rates, retention rates, student debt, and post-graduation earnings across U.S. colleges and universities.
 
 ## Business Questions Answered
 
@@ -57,8 +58,7 @@ Source: U.S. College Scorecard Dataset
 - Dynamic KPI updates
 - Cross-dashboard filtering
 
-### Tableau Public Dashboard
+## Live Dashboard
 
-[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/manya.eleti4437/viz/StudentSuccessInstitutionalAnalyticsDashboard/StudentSuccessDashboard)
----
+🔗 [View Interactive Tableau Dashboard](YOUR_TABLEAU_LINK)
 Built using Tableau Public.
