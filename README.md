@@ -6,6 +6,10 @@
 
 An interactive Tableau dashboard analyzing student success metrics across U.S. institutions.
 
+## Project Objective
+
+Analyze student success outcomes across U.S. higher education institutions using College Scorecard data and build an interactive Tableau dashboard to identify patterns in graduation rates, retention rates, student debt, and post-graduation earnings.
+
 ## Tech Stack
 
 - Tableau Public
