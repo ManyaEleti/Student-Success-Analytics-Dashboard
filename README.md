@@ -60,5 +60,5 @@ The dataset contains institutional-level information on enrollment, graduation r
 
 ## Live Dashboard
 
-🔗 [View Interactive Tableau Dashboard](YOUR_TABLEAU_LINK)
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/StudentSuccessInstitutionalAnalyticsDashboard/StudentSuccessDashboard?:showVizHome=no)
 Built using Tableau Public.
